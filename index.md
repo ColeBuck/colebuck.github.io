@@ -1,3 +1,15 @@
+<style>
+  .navbar {
+     width: 100%;
+  background-color: grey;
+  }
+</style>
+
+<div class="navbar">
+  <a href="#lehighenrollment">Lehigh Enrollment</a>
+  <a href="#bobdylan">Bob Dylan</a>
+</div>
+
 <img src="profilepic.jpeg" alt="Cole" width="200"/>
 
 ## About Me
