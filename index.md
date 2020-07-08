@@ -26,7 +26,7 @@ I'm a Computer Science major at Lehigh University, class of 2021. I'm also pursu
 
 <div style="margin-top: 75px;">
 
-<h2> Bob Dylan>
+<h2> Bob Dylan </h2>
 
 <iframe title="Bob Dylan's Songwriting Output by Decade" aria-label="chart" id="datawrapper-chart-s5t3l" src="https://datawrapper.dwcdn.net/s5t3l/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="315"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
