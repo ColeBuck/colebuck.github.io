@@ -50,5 +50,9 @@ The following heat maps show geographic activity of tweets containing the hashta
 <h3 style="margin-top: 40px;"> <span style="color: red"> #trump2020 </span> </h3>
 
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="#trump2020 Tweets" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=d15d9c85da2e465baf5d38ed7d06abc6&extent=-80.9353,38.364,-69.4436,42.6468&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
+
+<p>
+Looking at the maps, there is obviously more activity in urban areas (more people, more tweets). Biden's support is mainly from cities like New York, Philadelphia and Scranton (Biden's birthplace). Trump's support is more spread out, and includes rural areas such as central Pennsylvania.
+</p>  
   
 </div>
