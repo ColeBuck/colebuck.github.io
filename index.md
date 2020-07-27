@@ -37,7 +37,7 @@ I'm a Computer Science major at Lehigh University, class of 2021. I'm also pursu
 
 <div style="margin-top: 75px;">
   
-<h2 id="tweetVisualization"> Twitter Support for Trump vs. Biden </h2>
+<h2 id="tweetVisualization"> Twitter Support for <span color="blue"> Biden </span> vs. <span color="red">Trump </span> </h2>
 
 <h3> #biden2020 </h3>
 
