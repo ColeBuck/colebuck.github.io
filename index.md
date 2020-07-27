@@ -39,6 +39,12 @@ I'm a Computer Science major at Lehigh University, class of 2021. I'm also pursu
   
 <h2 id="tweetVisualization"> Twitter Support for Trump vs. Biden </h2>
 
+<h3> #biden2020 </h3>
+
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="#biden2020 Tweets" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=3f9d33ca988e40e6a1e26865b45702f8&extent=-80.9353,38.364,-69.4436,42.6468&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
+
+<h3> #trump2020 </h3>
+
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="#trump2020 Tweets" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=d15d9c85da2e465baf5d38ed7d06abc6&extent=-80.9353,38.364,-69.4436,42.6468&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
   
 </div>
