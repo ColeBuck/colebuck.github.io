@@ -40,7 +40,7 @@ I'm a Computer Science major at Lehigh University, class of 2021. I'm also pursu
 <h2 id="tweetVisualization"> Twitter Support for <span style="color: blue"> Biden </span> vs. <span style="color: red">Trump </span> </h2>
 
 <p>
-The following heat maps show geographic activity of tweets containing the hashtag <strong>#biden2020</strong>, as well as tweets containing the hashtag <strong>#trump2020</strong>. The data collection was <strong>not</strong> case-sensitive, so hastags like <strong>#Biden2020</strong> or <strong>#TRUMP2020</strong> <strong>are</strong> included. Due to the sheer popularity of these hashtags and limitations of the Twitter API, these maps only show activity in the Mid-Atlantic region of the US. 
+The following heat maps show geographic activity of tweets containing the hashtag <strong>#biden2020</strong>, as well as tweets containing the hashtag <strong>#trump2020</strong>. The data collection was <strong>not</strong> case-sensitive, so hashtags like <strong>#Biden2020</strong> or <strong>#TRUMP2020</strong> are included. Due to the sheer popularity of these hashtags and limitations of the Twitter API, these maps only show activity in the Mid-Atlantic region of the US. 
 </p>
 
 <h3>  <span style="color: blue">#biden2020</span> </h3>
