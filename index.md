@@ -93,7 +93,7 @@ Looking at the maps, there is obviously more activity in urban areas (more peopl
 <hr>
 
 <div style="margin-top: 75px;">
-  <p> Since 2015, the Washington Post has been maintaining a database of fatal shootings by police officers in the United States. As of June 2020, there have been over 5,000 cases. 
+  <p> Since 2015, the Washington Post has been maintaining a database of fatal shootings by police officers in the United States. As of August 2020, there have been over 6,000 cases. 
   </p>
   <p> <strong>Credits</strong> </p>
   <p> The data: The Washington Post (<a href="https://github.com/washingtonpost/data-police-shootings"> https://github.com/washingtonpost/data-police-shootings </a>) <br> This Tableau story: Cole R. Buck
