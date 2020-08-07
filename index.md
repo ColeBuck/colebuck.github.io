@@ -1,4 +1,19 @@
+<style>
+  .link {
+  background-color: grey;
+  padding-left: 10px;
+  padding-rght: 10px;
+  display: block;
+  }
+</style>
+
 <img src="profilepic.jpeg" alt="Cole" width="200"/>
+
+<div style="width:50%; float: left;">
+  <h2> Quick Links </h3>
+  <a class="link" href="#lehighenrollment"> Lehigh Enrollment </a>
+  <a class="link" href="#bobdylan"> Bob Dylan </a>
+</div>
 
 ## About Me
 
