@@ -1,11 +1,5 @@
 <img src="profilepic.jpeg" alt="Cole" width="200"/>
 
-<div style="width:50%; float: left;">
-  <h2> Quick Links </h3>
-  <a href="#lehighenrollment" style="display: block; background-color: grey; padding-left: 10px; padding-rght: 10px;"> Lehigh Enrollment </a>
-  <a href="#bobdylan" style="display: block; background-color: grey; padding-left: 10px; padding-rght: 10px;"> Bob Dylan </a>
-</div>
-
 ## About Me
 
 I'm a Computer Science major at Lehigh University, class of 2021. I'm also pursuing a minor in Data Science. I was born and raised in Palmerton, PA, on the edge of the Lehigh Valley. Some of my hobbies include programming, hiking, driving, and anything music-related.
@@ -39,6 +33,16 @@ I'm a Computer Science major at Lehigh University, class of 2021. I'm also pursu
 
 <img src="bobdylan.jpg" alt="Bob Dylan" width="400"/>
 
+</div>
+
+<div style="margin-top: 75px;">
+  <h2 id="360tour"> 360 Degree Tour </h2>
+  <p>
+    I created this 360 degree tour to show you around Carbon County and my hometown of Palmerton, Pennsylvania!
+  </p>
+  
+  <iframe width="100%" height="480px" src="https://poly.google.com/view/7w5ov_qTJ_O/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+  
 </div>
 
 <div style="margin-top: 75px;">
