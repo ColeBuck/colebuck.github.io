@@ -7,13 +7,6 @@
         "link":"https://javafootball.herokuapp.com"
     },
     {
-        "title":"BitFlip",
-        "description": "A fun little decimal-to-binary conversion game.",
-        "tech": ["React"],
-        "github":"https://github.com/ColeBuck/bitflip",
-        "link":"http://colebuck.github.io/bitflip.html"
-    },
-    {
         "title":"Portfolio Site", 
         "description":"Yes, the portfolio site that you're looking at right now! This project had two main purposes: to help me learn Gatsby.js, and to efficiently show off other projects that I've worked on. ", 
         "tech": ["React", "Gatsby", "CSS/Sass"],
