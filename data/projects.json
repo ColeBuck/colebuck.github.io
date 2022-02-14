@@ -1,10 +1,17 @@
 [
     {
-        "title":"Cash Clicker",
-        "description":"A simple web game made for my Web Systems Programming class. Users can create an account and increase their score by clicking or tapping 'The Button.' Cash Clicker also features a live leaderboard and user profiles, allowing players to see how they stack up with each other! ",
-        "tech": ["HTML/Pug, CSS, JavaScript", "Node.js / Express.js", "PostgreSQL"],
-        "github":"https://github.com/cse264/final-project-cole-js",
-        "link":"https://cashclicker.herokuapp.com"
+        "title":"Java Football", 
+        "description":"My take on an American football simulator/game. I've attempted this project several times over the past few years, and this current version is by far the most developed and complete. Still, there's plenty of work left to do to achieve my original vision.",
+        "tech": ["Java", "Spring Boot", "Maven"],
+        "github":"https://github.com/ColeBuck/javafootball",
+        "link":"https://javafootball.herokuapp.com"
+    },
+    {
+        "title":"BitFlip",
+        "description": "A fun little decimal-to-binary conversion game.",
+        "tech": ["React"],
+        "github":"https://github.com/ColeBuck/bitflip",
+        "link":"http://colebuck.github.io/bitflip.html"
     },
     {
         "title":"Portfolio Site", 
@@ -14,10 +21,10 @@
 
     },
     {
-        "title":"Java Football", 
-        "description":"When I started learning Java way back in high school, the first thing I wanted to make was a football simulator game, similar to the Madden video games. Of course, this turned out to be quite a challenge, and I didn't make it very far at all. Since then, I've revisited the idea multiple times, and have produced a small, but functional, fraction of my original vision!",
-        "tech": ["Java", "Spring Boot", "Maven"],
-        "github":"https://github.com/ColeBuck/javafootball",
-        "link":"https://javafootball.herokuapp.com"
+        "title":"Cash Clicker",
+        "description":"A simple web game made for my Web Systems Programming class. Users can create an account and increase their score by clicking or tapping 'The Button.' Cash Clicker also features a live leaderboard and user profiles, allowing players to see how they stack up with each other! ",
+        "tech": ["HTML/Pug, CSS, JavaScript", "Node.js / Express.js", "PostgreSQL"],
+        "github":"https://github.com/cse264/final-project-cole-js",
+        "link":"https://cashclicker.herokuapp.com"
     }
 ]
